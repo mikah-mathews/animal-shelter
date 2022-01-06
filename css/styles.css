@@ -2,11 +2,26 @@ img {
   width: 30%;
 } 
 
-
+body {
+  color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
 
 .pets {
   display: grid;
   grid-template-columns: 500px 500px;
   margin: 2rem auto 2rem auto;   
   width: 1000px;
+}
+
+
+.gerald p{
+  color: seagreen;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.kristina p{
+  color: sienna;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
