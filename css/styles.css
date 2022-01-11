@@ -25,3 +25,8 @@ body {
   color: sienna;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
